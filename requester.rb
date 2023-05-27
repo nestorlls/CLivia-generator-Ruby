@@ -7,7 +7,6 @@ module Requester
     # show category and difficulty from question
     # show the question
     # show each one of the options
-    # grab user input
   end
 
   def will_save?(score)
